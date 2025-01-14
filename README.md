@@ -19,4 +19,5 @@ improving your browsing efficiency.
 
 ## Installation
 
-Install the extension from the [Chrome Web Store]().
+Install the extension from the
+[Chrome Web Store](https://chromewebstore.google.com/detail/pin-switcher/egegfclbklldhldifonojknjpbobgjjh).
