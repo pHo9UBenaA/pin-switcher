@@ -1,6 +1,6 @@
 {
   "tasks": {
-    "build": "deno run -A deno.build.ts",
+    "build": "deno run -A build.ts",
     "zip": "deno run build --minify; zip -vr dist.zip dist -x \"*.DS_Store\"",
     "format": "deno fmt",
     "lint": "deno lint"
