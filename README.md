@@ -57,6 +57,3 @@ for details.
   [Google Support](https://support.google.com/chrome/answer/95464).
 - **Shortcut Issues**: If the keyboard shortcuts don't work, navigate to
   `chrome://extensions/shortcuts` in Chrome and reassign the keys as needed.
-
-For more details, visit the
-[Pin Switcher GitHub Repository](https://github.com/pHo9UBenaA/pin-switcher).
